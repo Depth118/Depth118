@@ -11,5 +11,4 @@ Software developer building web applications, systems tools, and data-driven pla
 
 ## Contact
 
-- GitHub: [@Depth118](https://github.com/Depth118)
-- Email: [safansulfikar@gmail.com](mailto:safansulfikar@gmail.com)
+[safansulfikar@gmail.com](mailto:safansulfikar@gmail.com)
